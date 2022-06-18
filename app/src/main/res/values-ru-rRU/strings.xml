@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dog">собака</string>
+    <string name="pig">свинья</string>
+    <string name="cat">кошка</string>
+    <string name="sheep">овца</string>
+    <string name="horse">лошадь</string>
+    <string name="pick_an_animal">Выберите животное:</string>
+    <string name="choise">Вы выбрали:</string>
+</resources>

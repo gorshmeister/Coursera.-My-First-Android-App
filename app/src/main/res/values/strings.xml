@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Build Your First Android App</string>
+    <string name="dog">dog</string>
+    <string name="pig">pig</string>
+    <string name="cat">cat</string>
+    <string name="sheep">sheep</string>
+    <string name="horse">horse</string>
+    <string name="pick_an_animal">Pick an animal:</string>
+    <string name="choise">You chosed:</string>
+    <string-array name="animals">
+        <item>@string/horse</item>
+        <item>@string/pig</item>
+        <item>@string/cat</item>
+        <item>@string/sheep</item>
+        <item>@string/dog</item>
+    </string-array>
+</resources>
